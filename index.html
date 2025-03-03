@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wheather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> 
+    <div class="container">
+        <label for="">City </label>
+        <input type="text" id="city" name="city" placeholder="Enter City"><br>
+        <label for="">Temperature</label>
+        <input type="text" name="temp" id="temp" placeholder="City Temperature"><br>
+        <label for="">Humidity</label>
+        <input type="text" name="humid" id="humid" placeholder="City Humidity"><br>
+        <label for="">Wind Speed</label>
+        <input type="text" name="ws" id="ws" placeholder=" Wind Speed"><br>
+        <button onclick="fetchData()">Search</button>
+    </div>
+    
+    <script src="./index.js"></script>
+</body>
+</html>
