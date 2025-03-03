@@ -44,7 +44,7 @@ const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q={city}&appid="
 
 ## Screenshots
 
-[FrontEnd]([https://openweathermap.org/](https://github.com/devraj1608/Wheater-app/blob/cd2c839adb321d6bf079975f62d147d6b3d3ffbe/Screenshot%202025-03-03%20153550.png))
+[FrontEnd](https://github.com/devraj1608/Wheater-app/blob/eff43247e64d37af0d1a675ca113a12055f7942c/Screenshot%202025-03-03%20153550.png)
 
 ## Future Enhancements
 
